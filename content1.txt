@@ -4,4 +4,8 @@ content2
 
 content3
 
+<<<<<<< HEAD
 master content 4
+=======
+branch ms content 4
+>>>>>>> ms
